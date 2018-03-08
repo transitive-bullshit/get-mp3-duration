@@ -2,7 +2,7 @@
 
 > Computes the duration of an mp3 buffer in node or browser.
 
-[![NPM](https://img.shields.io/npm/v/get-mp3-duration.svg)](https://www.npmjs.com/package/get-mp3-duration) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/get-mp3-duration.svg)](https://www.npmjs.com/package/get-mp3-duration) ![Travis CI Build](https://travis-ci.org/transitive-bullshit/get-mp3-duration.svg?branch=master) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -24,7 +24,8 @@ console.log(duration, 'ms') => 285727 ms
 
 ## Related
 
-This project is a fork of [mp3-duration](https://github.com/ddsol/mp3-duration) by Han de Boer to add browser support.
+- [mp3-duration](https://github.com/ddsol/mp3-duration) this package is a fork of mp3-duration to add browser support.
+- [vmsg](https://github.com/Kagami/vmsg) is an optimized mp3 recorder for the web which ports the lame mp3 encoder to wasm.
 
 ## License
 
