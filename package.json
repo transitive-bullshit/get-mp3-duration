@@ -1,6 +1,6 @@
 {
   "name": "get-mp3-duration",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Computes the duration of an mp3 buffer in node or browser.",
   "main": "index.js",
   "repository": "transitive-bullshit/get-mp3-duration",
