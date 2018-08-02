@@ -2,7 +2,7 @@
 
 > Computes the duration of an mp3 buffer in node or browser.
 
-[![NPM](https://img.shields.io/npm/v/get-mp3-duration.svg)](https://www.npmjs.com/package/get-mp3-duration) [![Travis CI Build](https://travis-ci.org/transitive-bullshit/get-mp3-duration.svg?branch=master)](https://travis-ci.org/transitive-bullshit/get-mp3-duration) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/get-mp3-duration.svg)](https://www.npmjs.com/package/get-mp3-duration) [![Build Status](https://travis-ci.com/transitive-bullshit/get-mp3-duration.svg?branch=master)](https://travis-ci.com/transitive-bullshit/get-mp3-duration) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
